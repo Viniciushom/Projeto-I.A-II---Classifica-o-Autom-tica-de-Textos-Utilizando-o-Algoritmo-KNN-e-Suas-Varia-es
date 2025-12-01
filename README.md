@@ -188,3 +188,4 @@ python load_vectors.py         # Carrega e analisa
 ---
 
 **Desenvolvido em Nov 2025** — Classificação Automática de Textos Reuters com KNN e Variações
+https://redesigned-computing-machine-4w499g57w77hqpjj.github.dev/
